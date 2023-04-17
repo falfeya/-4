@@ -1,0 +1,8 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\bin\Debug\практическая4.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\bin\Debug\практическая4.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\bin\Debug\практическая4.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\obj\Debug\практическая4.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\obj\Debug\практическая4.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\obj\Debug\практическая4.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\obj\Debug\практическая4.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\практическая4\obj\Debug\практическая4.pdb
